@@ -1,0 +1,6 @@
+{
+  "name": "PEMILIHAN PELSUS GMIM",
+  "description": "Sistem Informasi Pemilihan Pelayan Khusus (Pelsus) Kolom GMIM untuk Diaken dan Penatua, rekapitulasi, daftar hadir, dan BAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
